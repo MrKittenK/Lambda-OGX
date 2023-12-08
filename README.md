@@ -44,8 +44,9 @@ Ribbons to : LPC / USB 1-4 / +5V-GND / Ethernet / <?Focus-IC?>
 
 ----------------------------------------------------------------
 
-Aditions?
+Additions?
 
+Xerc Wireless power On/Off?
 RGB that can tie into the spi lines of the OpenXenium? 
 WLED? 
 HDMI? ( See <??> marked items )
