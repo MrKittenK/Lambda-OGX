@@ -1,16 +1,27 @@
-# Lambda-OGX
+𝝺-𝝤𝝘𝝬
+
+Lambda-OGX
+
 A single board solution to combine several Original XBOX modifications. 
 OpenXenium/OGX360/BlueRetro/spi2par2019/Wireless Bridge/
 (Plus additional support circuitry)
 
 
 
+Some Parts so far:
+
 4 AT mega 32U4 are used for OGX360
+
 1 AT mega 32U4 is used for spi2par2019
+
 1 ESP32 is used for BlueRetro and communication with OGX360
+
 1 ESP32 is used for linking all together and possible Wi-Fi?
+
 1 Wi-Fi to Ethernet adapter (Possible use of ESP32?)
+
 1 FPGA is used for OpenXenium
+
 
 
 1 PCB to add all of these together. 
@@ -19,6 +30,7 @@ RGB that can tie into the spi lines of the OpenXenium?
 WLED? 
 
 Use as many existing internal connections as is possible. 
+
 
 Why?
 
