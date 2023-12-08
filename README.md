@@ -43,7 +43,7 @@ Why?
 
 Simple, I want to make an Ultra Slim OG-XBOX. To do this i will be removing the DVD drive,
 adding in a 2.5" storage solution (ide to sata adapter). Removing the front controller ports,
-with the combination of BlueRetro and OGX360 I will be able to use a DS4 pad or a Boone pad etc. 
+with the combination of BlueRetro and OGX360 I will be able to use a DS4 pad or a Xinput/HID/XboxOne pad etc. 
 As such I will have zero need for plug-in controllers.
 
 In making the Ultra Slim I shall be trying to also provide a custom power supply with regulators etc. 
