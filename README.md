@@ -7,7 +7,7 @@
 I wish to keep a level of Modular-ness to this project, allowng for each version of xbox
 to be able to use this.
 
-I also wish to keeo this 100% Open Source.
+I also wish to keep this 100% Open Source.
 Any and all files should and will be made avalaiable to all. 
 So if you contribute, please be aware that your contribution shall be a part of an Open ethos.
 
