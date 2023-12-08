@@ -1,13 +1,18 @@
-𝝺-𝝤𝝘𝝬
+# 𝝺-𝝤𝝘𝝬 - Lambda-OGX
 
-Lambda-OGX
-
-A single board solution to combine several Original XBOX modifications. 
-OpenXenium/OGX360/BlueRetro/spi2par2019/Wireless Bridge/
+## A single board solution to combine several Original XBOX modifications OpenXenium/OGX360/BlueRetro/spi2par2019/Wireless Bridge/
 (Plus additional support circuitry)
 
 
+I wish to keep a level of Modular-ness to this project, allowng for each version of xbox
+to be able to use this.
 
+I also wish to keeo this 100% Open Source.
+Any and all files should and will be made avalaiable to all. 
+So if you contribute, please be aware that your contribution shall be a part of an Open ethos.
+
+ 
+```
 Some Parts so far:
 
 4 AT mega 32U4 are used for OGX360
@@ -22,15 +27,17 @@ Some Parts so far:
 
 1 FPGA is used for OpenXenium
 
-
-
 1 PCB to add all of these together. 
+```
+
+```
+Aditions?
 
 RGB that can tie into the spi lines of the OpenXenium? 
 WLED? 
-
+HDMI?
 Use as many existing internal connections as is possible. 
-
+```
 
 Why?
 
@@ -51,3 +58,14 @@ This is purely a project of love and learning.
 My first Xbox experiences were in my late teens - early 20s, i am 40 in 2024 and
 just purchased a 1.4 XBOX and after seeing the available mods...
 Wanted an easy way to tie them all together.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
