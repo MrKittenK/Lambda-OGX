@@ -27,16 +27,30 @@ Some Parts so far:
 
 1 FPGA is used for OpenXenium
 
-1 PCB to add all of these together. 
-```
+1 PCB to add all of these together.
 
-```
+-----------------------------------------------------
+
+4 x ATmega 32U4 > SPI > ESP32
+1 x ESP32 > Bluetooth > SPI > ATmega 32U4 x4
+1 x ATmega 32U4 > SPI > FPGA
+1 x FPGA > Bios-ROM > LPC
+1 x WiFi > Bridge > RJ45 loop(or internal pogos)
+1 x <?Focus-IC?> > <?ADV7511?>
+
+1 board holding all chips/ICs
+zif connectors with ribbon QSB points added
+Ribbons to : LPC / USB 1-4 / +5V-GND / Ethernet / <?Focus-IC?>
+
+----------------------------------------------------------------
+
 Aditions?
 
 RGB that can tie into the spi lines of the OpenXenium? 
 WLED? 
-HDMI?
-Use as many existing internal connections as is possible. 
+HDMI? ( See <??> marked items )
+Use as many existing internal connections as is possible.
+
 ```
 
 Why?
